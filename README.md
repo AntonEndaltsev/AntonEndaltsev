@@ -1,5 +1,6 @@
 
 
+
 <!--
 **AntonEndaltsev/AntonEndaltsev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,7 +24,13 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=AntonEndaltsev&style=flat-square&color=blue" alt=""/>
   <br/>
   <h1>
-  Hi, I'm Anton Endaltsev 👋
+  Привет! Меня зовут Антон Ендальцев 👋
     
   </h1>
   </div>
+### 👨‍💻 О себе:
+Я Java разработчик из Екатеринбурга.
+- 🔭 В данный момент нахожусь в поиске классного проекта
+- 🌱 Мой стек: Java 8-11, Kotlin, REST, SOAP, Docker, Kubernetes, Spring Framework, PostgreSQL, Maven, Gradle, MVC
+- ⚡ Мои ценности: саморазвитие, искренность, трудолюбие, быть полезным
+- 📫 Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/@booba_anton?style=flat&logo=Telegram&logoColor=white)](https://t.me/booba_anton)
