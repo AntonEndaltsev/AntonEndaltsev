@@ -33,8 +33,12 @@ Here are some ideas to get you started:
 - 🔭 В данный момент нахожусь в поиске классного проекта<br/>
 - 🌱 Мой стек: Java 8-11, Kotlin, REST, SOAP, Docker, Kubernetes, Spring Framework, PostgreSQL, Maven, Gradle, MVC<br/>
 - ⚡ Мои ценности: саморазвитие, искренность, трудолюбие, быть полезным<br/>
-- 📫 Связаться со мной: https://t.me/booba_anton
-<!--[![Telegram Badge](https://img.shields.io/badge/booba_anton?style=flat&logo=Telegram&logoColor=white)][https://t.me/booba_anton]--?
----
-### 🛠️ Языки программирования и инструменты:<br/>
-![Java](https://img.shields.io/badge/java-blue)
+- 📫 Связаться со мной: https://t.me/booba_anton <br/> <br/>
+<p>
+        <img src="https://img.shields.io/badge/java-blue">
+        <img src="https://img.shields.io/badge/docker-blue">
+        <img src="https://img.shields.io/badge/intellij idea-blue">
+</p>
+    
+
+
