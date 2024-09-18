@@ -28,9 +28,9 @@ Here are some ideas to get you started:
     
   </h1>
   </div>
-### 👨‍💻 О себе:
-Я Java разработчик из Екатеринбурга.
-- 🔭 В данный момент нахожусь в поиске классного проекта
-- 🌱 Мой стек: Java 8-11, Kotlin, REST, SOAP, Docker, Kubernetes, Spring Framework, PostgreSQL, Maven, Gradle, MVC
-- ⚡ Мои ценности: саморазвитие, искренность, трудолюбие, быть полезным
-- 📫 Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/@booba_anton?style=flat&logo=Telegram&logoColor=white)](https://t.me/booba_anton)
+  👨‍💻 О себе:<br/>
+Я Java разработчик из Екатеринбурга.<br/>
+- 🔭 В данный момент нахожусь в поиске классного проекта<br/>
+- 🌱 Мой стек: Java 8-11, Kotlin, REST, SOAP, Docker, Kubernetes, Spring Framework, PostgreSQL, Maven, Gradle, MVC<br/>
+- ⚡ Мои ценности: саморазвитие, искренность, трудолюбие, быть полезным<br/>
+- 📫 Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-booba_anton?style=flat&logo=Telegram&logoColor=white)](https://t.me/booba_anton)
