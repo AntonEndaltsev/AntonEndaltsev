@@ -35,3 +35,6 @@ Here are some ideas to get you started:
 - ⚡ Мои ценности: саморазвитие, искренность, трудолюбие, быть полезным<br/>
 - 📫 Связаться со мной: https://t.me/booba_anton
 <!--[![Telegram Badge](https://img.shields.io/badge/booba_anton?style=flat&logo=Telegram&logoColor=white)][https://t.me/booba_anton]--?
+---
+### 🛠️ Языки программирования и инструменты:<br/>
+![Java](https://img.shields.io/badge/java-blue)
